@@ -1,4 +1,4 @@
 IPTV-KODI-M3U
-http://ext.ssttaa.com:80/get.php?username=pedrinho001silva&password=silva001pedrinho&type=m3u_plus
-http://tv-prime.tv:8080/get.php?username=MarceloOpazo&password=72655122&type=m3u_plus
-http://tvlatino.club:2082/get.php?username=Makadibriz&password=SWdvFHFgWMV7&type=m3u_plus
+http://infraz.top:80/get.php?username=8448288279&password=ymy5j9p&type=m3u_plus&output=ts
+http://appleuhd.us/get.php?username=756731876084PW&password=523028417242&type=m3u_plus
+http://appleuhd.us/get.php?username=guilherme12&password=237xbs1839&type=m3u_plus
